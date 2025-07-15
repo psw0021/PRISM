@@ -34,9 +34,6 @@ remove_citations=True
 remove_mentions=True
 
 
-
-fi
-
 if [[ ${use_query_optimizer} == False && ${multi_agent} == False ]]; then
     use_multi_source=False
 fi
